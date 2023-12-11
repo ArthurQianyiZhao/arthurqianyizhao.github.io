@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qianyi (Arthur) Zhao / 赵千艺"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/ZhaoQianyi.jpg"
   bio              : "Third-year research student in EECS at ANU"
-  location         : "Canberra, Australia / Nanjing, China"
+  location         : "Canberra, Australia"
   employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
