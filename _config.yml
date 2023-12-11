@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Qianyi Zhao"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "ArthurQianyiZhao/arthurqianyizhao.github.io"
 google_scholar_stats_use_cdn : false
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qianyi Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "School of Engineering, Australian National University"
   location         : "Canberra, Australia"
-  employer         :
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "arthur.zhao@anu.edu.au"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
