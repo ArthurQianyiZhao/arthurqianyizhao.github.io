@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qianyi Zhao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "This is the homepage developed and maintained by QianyiZhao."
 repository               : "ArthurQianyiZhao/arthurqianyizhao.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : “https://github.com/ArthurQianyiZhao”
+  github           : “ArthurQianyiZhao”
   google_plus      :
   keybase          :
   instagram        :
