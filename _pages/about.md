@@ -20,12 +20,12 @@ Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@a
 # News
 - *01/2024*:   I will continue my role as a tutor for School of Engineerinng, ANU (ENGN2218).
 - *11/2023*:   I am going to join NEMS Lab, ANU in 2024.
-- *11/2023*:   I started my internship in China Mobile (Nanjing Branch).
+- *11/2023*:   I started my internship at China Mobile (Nanjing Branch).
 
 # Publications 
 On The Way.
 
-# Honors and Awards
+# Honors & Awards
 On The Way.
 
 # Educations
@@ -46,7 +46,7 @@ On The Way.
 
     [ENGN1217: Introduction to Mechanics](https://programsandcourses.anu.edu.au/2023/course/engn1217) (**2023S2**)
 
-# Experience
+# Experiences
 - *11/2023 - 02/2024*, Network Department Internship, <a href="https://www.chinamobileltd.com/en/global/home.php" style="text-decoration: none;">
 China Mobile Group Jiangsu Co. LTD Nanjing Branch, Nanjing, China.
 </a>
