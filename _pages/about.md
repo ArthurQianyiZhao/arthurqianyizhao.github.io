@@ -38,7 +38,7 @@ On The Way.
   **WAM**: Overall HD (First Class Honours)
 
 # Teaching & Services
-- 07/2023 - Present, Academic Tutor, Australian National Univerisity, Canberra, Australia.
+- *07/2023 - Present*, Academic Tutor, Australian National Univerisity, Canberra, Australia.
 
   Academic tutor for:
 
@@ -49,7 +49,7 @@ On The Way.
 # Experiences
 - *11/2023 - 02/2024*, Network Department Internship, [China Mobile Group](https://www.chinamobileltd.com/en/global/home.php) Jiangsu Co. LTD Nanjing Branch, Nanjing, China.
 
-- 02/2023 - 11/2023, Undergraduate Research Student, ANU-Optus Bushfire Research Centre of Excellence, Australian National Univerisity, Canberra, Australia.
+- *02/2023 - 11/2023*, Undergraduate Research Student, ANU-Optus Bushfire Research Centre of Excellence, Australian National Univerisity, Canberra, Australia.
 
 - *05/2023 - 07/2023*, Summer Workshop, School of Computing, National University of Singapore, Singapore
 
