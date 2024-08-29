@@ -19,6 +19,7 @@ Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@a
 
 # News
 
+
 # Research Experiences 
 _Nano-Electro-Mechanical System (NEMS) Lab_
 
@@ -35,7 +36,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 
 # Honors & Awards
-On The Way.
+
 
 # Educations
 - [**Bachelor of Engineering (Research and Development) (Honours)**](https://programsandcourses.anu.edu.au/2022/program/aenrd), Australian National Univerisity, Canberra, Australia, *02/2022 - 07/2025*,
@@ -56,6 +57,8 @@ On The Way.
     [ENGN2218: Electronic Systems and Design](https://programsandcourses.anu.edu.au/2024/course/engn2218) (**2024S1**)
 
     [ENGN1217: Introduction to Mechanics](https://programsandcourses.anu.edu.au/2023/course/engn1217) (**2023S2**)
+  
+- Course Representative for 11 courses across all semesters.  
 
 # Experiences
 - *02/2024 - present*, Undergraduate Research Student, NEMS Lab, Australian National Univerisity, Canberra, Australia.
