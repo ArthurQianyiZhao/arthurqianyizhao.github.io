@@ -32,6 +32,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 [3] Bushfire detection using environmental monitoring sensing and deep anomaly detection approach.
 
 • Accepted by ANU Student Research Conference and selected for oral presentation.
+
 [4] Quantitative Verification of Gas Sensors in Volcano Monitoring Wireless Sensor Networks (WSN)
 
 
