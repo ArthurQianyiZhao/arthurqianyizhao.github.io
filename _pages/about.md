@@ -19,8 +19,14 @@ Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@a
 
 # News
 
-# Publications 
-On The Way.
+# Research Experiences 
+_Nano-Electro-Mechanical System (NEMS) Lab_
+[1] Fabrication of 2D heterostructures with precise twist angle alignment (Ongoing)
+[2] Simulation of the optical properties and fabrication of qBIC metasurface (Ongoing)
+_ANU-Optus Bushfire Research Centre of Excellence_
+[3] Bushfire detection using environmental monitoring sensing and deep anomaly detection approach.
+• Accepted by ANU Student Research Conference and selected for oral presentation.
+[4] Quantitative Verification of Gas Sensors in Volcano Monitoring Wireless Sensor Networks (WSN)
 
 # Honors & Awards
 On The Way.
