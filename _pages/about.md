@@ -11,9 +11,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [School of Engineering](https://eng.anu.edu.au/), [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in Jun 2025.
+Arthur is pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [School of Engineering](https://eng.anu.edu.au/), [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in Jun 2025.
 
-My research interests are decision intelligence systems (ML, communication networks, signal processing, IoT) and nanotechnology in semiconductor industry. I am currently a member of NEMS (Nano Electro-Mechanical Systems) Lab under the supervision of Prof. Yuerui Lu.
+His research interests are decision intelligence systems in communication systems and optical/photonic communication modules in semiconductor industry. He has particular interest in large-scale multi-GPU communication recently. He is currently a member of NEMS (Nano Electro-Mechanical Systems) Lab under the supervision of Prof. Yuerui Lu.
 
 Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@anu.edu.au).
 
