@@ -21,7 +21,7 @@ Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@a
 
 
 # Research Experiences 
-_Nano-Electro-Mechanical System (NEMS) Lab_
+_Nano-Electro-Mechanical System (NEMS) Lab, ANU_
 
 [1] Fabrication of 2D heterostructures with precise twist angle alignment (Ongoing)
 
