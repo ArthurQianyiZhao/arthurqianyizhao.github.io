@@ -59,12 +59,13 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
     [ENGN1217: Introduction to Mechanics](https://programsandcourses.anu.edu.au/2023/course/engn1217) (**2023S2**)
   
-- Course Representative for 11 courses across all semesters.  
+- Course Representative for 11 courses across all semesters.
+- Completed ANU _EXPLORING LEARNING AND TEACHING_ program. [[Certificate]](https://www.dropbox.com/scl/fi/ackxbpnhggc1vzbo9tb1q/ELT-Certificate-ZHAO-Arthur.pdf?rlkey=d8gd61wcoko5bvt4mob56w7e7&st=mbhn5qey&dl=0) 
 
 # Experiences
 - *02/2024 - present*, Undergraduate Research Student, NEMS Lab, Australian National Univerisity, Canberra, Australia.
 
-- *06/2024 - 07/2024*, Study Australia Industry Experience Program, Australian Government, Remote
+- *06/2024 - 07/2024*, Study Australia Industry Experience Program, Australian Government, Remote. [[Certificate]](https://www.dropbox.com/scl/fi/di7x8nk4fe4nnrtnw7nkr/Study-Australia-Industry-Experience-Program.pdf?rlkey=yimvd2thfq7qshdcij27rb36g&st=9yvzi4u3&dl=0)
 
 - *11/2023 - 02/2024*, Network Department Internship, [China Mobile Group](https://www.chinamobileltd.com/en/global/home.php) Jiangsu Co. LTD Nanjing Branch, Nanjing, China.
 
