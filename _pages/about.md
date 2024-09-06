@@ -71,7 +71,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 - *11/2023 - 02/2024*, Network Department Internship, [China Mobile Group](https://www.chinamobileltd.com/en/global/home.php) Jiangsu Co. LTD Nanjing Branch, Nanjing, China.
 
-• Experience accredited by ANU Engineering degree [Practical Experience requirement](https://programsandcourses.anu.edu.au/course/engn3100).
+  Experience accredited by ANU Engineering degree [Practical Experience requirement](https://programsandcourses.anu.edu.au/course/engn3100).
 
 - *02/2023 - 11/2023*, Undergraduate Research Student, ANU-Optus Bushfire Research Centre of Excellence, Australian National Univerisity, Canberra, Australia.
 
