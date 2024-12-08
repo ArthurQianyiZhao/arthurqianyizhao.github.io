@@ -13,27 +13,35 @@ redirect_from:
 
 Arthur is pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [School of Engineering](https://eng.anu.edu.au/), [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in Jun 2025.
 
-His research interests are decision intelligence systems in communication systems and optical/photonic communication modules in semiconductor industry. He has particular interest in large-scale multi-GPU communication recently. He is currently a member of NEMS (Nano Electro-Mechanical Systems) Lab under the supervision of Prof. Yuerui Lu.
+His research interests are decision intelligence and photonic integrated circuit in semiconductor and telecommunications industry. He has particular interest in photonic solutions to large-scale multi-GPU communication and AI infrastructure.
 
 Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@anu.edu.au).
 
 # News
 
 
-# Research Experiences 
+# Research Experiences
+
+_Department of Material Science and Engineering, Monash University_
+
+[1] Building Advanced Analytical Pipelines for 3D Material Science with SEM Dataset (Ongoing)
+
+[2] Coupling quasi in-situ EBSD and micro-DIC dataset with machine learning for mechanical stability analysis of austenite (Ongoing)
+- Granted Summer Vacation Research Scholarship 
+
 _Nano-Electro-Mechanical System (NEMS) Lab, ANU_
 
-[1] Fabrication of 2D heterostructures with precise twist angle alignment (Ongoing)
+[3] Fabrication of 2D heterostructures with precise twist angle alignment
 
-[2] Simulation of the optical properties and fabrication of qBIC metasurface (Ongoing)
+[4] Simulation of the optical properties and fabrication of qBIC metasurface (Ongoing)
 
 _ANU-Optus Bushfire Research Centre of Excellence_
 
-[3] Bushfire detection using environmental monitoring sensing and deep anomaly detection approach.
+[5] Bushfire detection using environmental monitoring sensing and deep anomaly detection approach.
 
 - Accepted by ANU Student Research Conference and selected for oral presentation.
 
-[4] Quantitative Verification of Gas Sensors in Volcano Monitoring Wireless Sensor Networks (WSN)
+[6] Quantitative Verification of Gas Sensors in Volcano Monitoring Wireless Sensor Networks (WSN)
 
 
 # Honors & Awards
@@ -48,18 +56,19 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   **WAM**: 83 (HD with First Class Honours)
 
-  **GPA**: WES Equivalent: 4/4
+  **GPA**: WES Equivalent: 3.96/4
 
 # Teaching & Services
-- *07/2023 - 07/2024*, Academic Tutor, Australian National Univerisity, Canberra, Australia.
+- *07/2023 - 06/2025*, Academic Tutor, School of Engineering, Australian National Univerisity, Canberra, Australia.
 
   Academic tutor for:
 
-    [ENGN2218: Electronic Systems and Design](https://programsandcourses.anu.edu.au/2024/course/engn2218) (**2024S1**)
+    [ENGN2218: Electronic Systems and Design](https://programsandcourses.anu.edu.au/2024/course/engn2218) (**2024S1**, **2025S1**)
 
     [ENGN1217: Introduction to Mechanics](https://programsandcourses.anu.edu.au/2023/course/engn1217) (**2023S2**)
   
 - Course Representative for 11 courses across all semesters.
+- Mentor of official SET4ANU program.
 - Completed ANU _EXPLORING LEARNING AND TEACHING_ program. [[Certificate]](https://www.dropbox.com/scl/fi/ackxbpnhggc1vzbo9tb1q/ELT-Certificate-ZHAO-Arthur.pdf?rlkey=d8gd61wcoko5bvt4mob56w7e7&st=mbhn5qey&dl=0) 
 
 # Experiences
