@@ -13,7 +13,7 @@ redirect_from:
 
 Arthur is pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [School of Engineering](https://eng.anu.edu.au/), [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in Jun 2025.
 
-His research interests are decision intelligence and photonic integrated circuit in semiconductor and telecommunications industry. He has particular interest in photonic solutions to large-scale multi-GPU communication and AI infrastructure.
+My research interests are decision intelligence and photonic integrated circuits in semiconductor and telecommunications industry. He has particular interest in photonic solutions to large-scale multi-GPU communication and AI infrastructure.
 
 Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@anu.edu.au).
 
@@ -37,9 +37,9 @@ _Nano-Electro-Mechanical System (NEMS) Lab, ANU_
 
 _ANU-Optus Bushfire Research Centre of Excellence_
 
-[5] Bushfire detection using environmental monitoring sensing and deep anomaly detection approach.
+[5] Bushfire detection using environmental monitoring sensing and deep anomaly detection approach. 
 
-- Accepted by ANU Student Research Conference and selected for oral presentation. [[Certificate]](https://www.dropbox.com/scl/fi/qg1qkju45z6fki7b0gsh7/Certificate-of-Participation.jpg?rlkey=o5z3x0adiclo49qysgs7cnmks&st=sr7i8b21&dl=0)
+- Accepted by ANU Student Research Conference and selected for poster highlight and oral presentation. [[Certificate]](https://www.dropbox.com/scl/fi/qg1qkju45z6fki7b0gsh7/Certificate-of-Participation.jpg?rlkey=o5z3x0adiclo49qysgs7cnmks&st=sr7i8b21&dl=0)
 
 [6] Quantitative Verification of Gas Sensors in Volcano Monitoring Wireless Sensor Networks (WSN)
 
@@ -56,7 +56,9 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   **WAM**: 83 (HD with First Class Honours)
 
-  **GPA**: WES Equivalent: 3.95/4
+  **GPA**: US Equivalent (WES/Scholaro): 3.95/4
+
+  **Highlight**: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Digital Communication (94), Wireless Communication (86), Computer Systems & Organisation (87), Introduction to Electronics (95), Introduction to Mechanics (95)
 
 # Teaching & Services
 - *07/2023 - 06/2025*, Academic Tutor, School of Engineering, Australian National Univerisity, Canberra, Australia.
@@ -72,7 +74,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 - Mentor of official SET4ANU program.
 
 # Experiences
-- *11/2024 - Present*, Summer Research Student, Department of Material Science and Engineering, Monash University, Melbourne, Australia.
+- *11/2024 - Present*, Summer Research Student, Faculty of Engineering, Monash University, Melbourne, Australia.
 
   Supervisor: Dr. [Yuxiang Wu](https://scholar.google.com/citations?user=1JBjOO8AAAAJ&hl=en) and Prof. [Michael Preuss](https://research.monash.edu/en/persons/michael-preuss)
 
