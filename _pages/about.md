@@ -39,13 +39,13 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 [5] Bushfire detection using environmental monitoring sensing and deep anomaly detection approach.
 
-- Accepted by ANU Student Research Conference and selected for oral presentation.
+- Accepted by ANU Student Research Conference and selected for oral presentation. [[Certificate]](https://www.dropbox.com/scl/fi/qg1qkju45z6fki7b0gsh7/Certificate-of-Participation.jpg?rlkey=o5z3x0adiclo49qysgs7cnmks&st=sr7i8b21&dl=0)
 
 [6] Quantitative Verification of Gas Sensors in Volcano Monitoring Wireless Sensor Networks (WSN)
 
 
 # Honors & Awards
-
+- Monash Summer Vacation Research Scholarship, 10/2024
 
 # Educations
 - [**Bachelor of Engineering (Research and Development) (Honours)**](https://programsandcourses.anu.edu.au/2022/program/aenrd), Australian National Univerisity, Canberra, Australia, *02/2022 - 07/2025*,
@@ -56,7 +56,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   **WAM**: 83 (HD with First Class Honours)
 
-  **GPA**: WES Equivalent: 3.96/4
+  **GPA**: WES Equivalent: 3.95/4
 
 # Teaching & Services
 - *07/2023 - 06/2025*, Academic Tutor, School of Engineering, Australian National Univerisity, Canberra, Australia.
@@ -66,12 +66,16 @@ _ANU-Optus Bushfire Research Centre of Excellence_
     [ENGN2218: Electronic Systems and Design](https://programsandcourses.anu.edu.au/2024/course/engn2218) (**2024S1**, **2025S1**)
 
     [ENGN1217: Introduction to Mechanics](https://programsandcourses.anu.edu.au/2023/course/engn1217) (**2023S2**)
-  
+
+- Get fully trained for TA position through ANU _EXPLORING LEARNING AND TEACHING_ program. [[Certificate]](https://www.dropbox.com/scl/fi/ackxbpnhggc1vzbo9tb1q/ELT-Certificate-ZHAO-Arthur.pdf?rlkey=d8gd61wcoko5bvt4mob56w7e7&st=mbhn5qey&dl=0) 
 - Course Representative for 11 courses across all semesters.
 - Mentor of official SET4ANU program.
-- Completed ANU _EXPLORING LEARNING AND TEACHING_ program. [[Certificate]](https://www.dropbox.com/scl/fi/ackxbpnhggc1vzbo9tb1q/ELT-Certificate-ZHAO-Arthur.pdf?rlkey=d8gd61wcoko5bvt4mob56w7e7&st=mbhn5qey&dl=0) 
 
 # Experiences
+- *11/2024 - Present*, Summer Research Student, Department of Material Science and Engineering, Monash University, Melbourne, Australia.
+
+  Supervisor: Dr. [Yuxiang Wu](https://scholar.google.com/citations?user=1JBjOO8AAAAJ&hl=en) and Prof. [Michael Preuss](https://research.monash.edu/en/persons/michael-preuss)
+
 - *02/2024 - Present*, Undergraduate Research Student, NEMS Lab, Australian National Univerisity, Canberra, Australia.
 
   Supervisor: Prof. [Yuerui Lu](https://eng.anu.edu.au/people/yuerui-lu/)
@@ -86,7 +90,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   Supervisor: Prof. [Xiangyun Zhou](https://sites.google.com/view/xiangyun-zhou/) and Prof. [Salman Durrani](https://eng.anu.edu.au/people/salman-durrani/)
 
-- *05/2023 - 07/2023*, Summer Workshop, School of Computing, National University of Singapore, Singapore
+- *05/2023 - 07/2023*, Summer Workshop, School of Computing, National University of Singapore, Singapore [[Certificate]](https://www.dropbox.com/scl/fi/o7po6h4s5svmsimdea9a3/Certificate-of-Completion.jpg?rlkey=k2iwh9r0wtzhvu3f0wmse0w0k&st=ndk1yacg&dl=0)
 
   Track: Deep learning and robotics
 
