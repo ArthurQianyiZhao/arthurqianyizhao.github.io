@@ -13,7 +13,7 @@ redirect_from:
 
 Arthur is pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [School of Engineering](https://eng.anu.edu.au/), [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in Jun 2025.
 
-My research interests are decision intelligence and photonic integrated circuits in semiconductor and telecommunications industry. He has particular interest in photonic solutions to large-scale multi-GPU communication and AI infrastructure.
+His research interests are decision intelligence and photonic integrated circuits in semiconductor and telecommunications industry. He has particular interest in photonic solutions to large-scale multi-GPU communication and AI infrastructure.
 
 Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@anu.edu.au).
 
@@ -26,7 +26,7 @@ _Department of Material Science and Engineering, Monash University_
 
 [1] Building Advanced Analytical Pipelines for 3D Material Science with SEM Dataset (Ongoing)
 
-[2] Coupling quasi in-situ EBSD and micro-DIC dataset with machine learning for mechanical stability analysis of austenite (Ongoing)
+[2] Coupling in-situ EBSD and micro-DIC dataset with machine learning for mechanical stability analysis of austenite (Ongoing)
 - Granted Summer Vacation Research Scholarship 
 
 _Nano-Electro-Mechanical System (NEMS) Lab, ANU_
@@ -41,11 +41,12 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 - Accepted by ANU Student Research Conference and selected for poster highlight and oral presentation. [[Certificate]](https://www.dropbox.com/scl/fi/qg1qkju45z6fki7b0gsh7/Certificate-of-Participation.jpg?rlkey=o5z3x0adiclo49qysgs7cnmks&st=sr7i8b21&dl=0)
 
-[6] Quantitative Verification of Gas Sensors in Volcano Monitoring Wireless Sensor Networks (WSN)
+[6] Transferring bushfire gas wireless sensor networks (WSN) systems to volcano monitoring
 
 
 # Honors & Awards
 - Monash Summer Vacation Research Scholarship, 10/2024
+- HEX Singapore Summer Program Scholarship from ANU School of Computing, 09/2023
 
 # Educations
 - [**Bachelor of Engineering (Research and Development) (Honours)**](https://programsandcourses.anu.edu.au/2022/program/aenrd), Australian National Univerisity, Canberra, Australia, *02/2022 - 07/2025*,
