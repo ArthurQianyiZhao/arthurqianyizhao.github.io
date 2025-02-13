@@ -19,6 +19,8 @@ Feel free to contact me via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@a
 
 # News
 
+I will continue the tutor position at School of Engineering for S1 2025.
+
 
 # Research Experiences
 
