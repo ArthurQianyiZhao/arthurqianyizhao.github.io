@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qianyi Zhao"
-description              : "School of Engineering, Australian National University"
+description              : "Qianyi Zhao's personal website"
 repository               : "ArthurQianyiZhao/arthurqianyizhao.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qianyi (Arthur) Zhao / 赵千艺"
+  name             : "Arthur (Qianyi) Zhao / 赵千艺"
   avatar           : "images/ZhaoQianyi.jpg"
-  bio              : "Final year undergraduate research student @ECE ANU"
+  bio              : "Incoming PhD student at University of Melbourne. Final year undergraduate research student at ANU"
   location         : "Canberra, Australia"
   employer         : 
   pubmed           : 
