@@ -84,7 +84,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 - *02/2024 - Present*, Undergraduate Research Student, NEMS Lab, Australian National Univerisity, Canberra, Australia.
 
-  Supervisor: Prof. [Yuerui Lu](https://eng.anu.edu.au/people/yuerui-lu/)[[Google Scholar]](https://scholar.google.com.au/citations?user=3YvgGa4AAAAJ&hl=en)
+  Supervisor: Prof. [Yuerui Lu](https://eng.anu.edu.au/people/yuerui-lu/)
 
 - *06/2024 - 07/2024*, Study Australia Industry Experience Program, Australian Government, Remote. [[Certificate]](https://www.dropbox.com/scl/fi/di7x8nk4fe4nnrtnw7nkr/Study-Australia-Industry-Experience-Program.pdf?rlkey=yimvd2thfq7qshdcij27rb36g&st=9yvzi4u3&dl=0)
 
