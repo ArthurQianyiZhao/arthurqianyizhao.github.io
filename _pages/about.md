@@ -24,16 +24,16 @@ I will continue the tutor position at School of Engineering for S1 2025.
 
 # Research Experiences
 
-_Department of Material Science and Engineering, Monash University_
-
-[1] Correlative in-situ EBSD and DIC dataset with explainable machine learning for mechanical stability analysis of iron
-- Granted Monash Summer Research Scholarship
-
 _Nano-Electro-Mechanical System (NEMS) Lab, ANU_
+
+[1] Design, simulation and fabrication of qBIC metasurface in telecom-band (Ongoing)
 
 [2] Fabrication of 2D heterostructures with precise twist angle alignment
 
-[3] Design, simulation and fabrication of qBIC metasurface in telecom-band (Ongoing)
+_Department of Material Science and Engineering, Monash University_
+
+[3] Correlative in-situ EBSD and DIC dataset with explainable machine learning for mechanical stability analysis of iron alloy
+- Granted Monash Summer Research Scholarship
 
 _ANU-Optus Bushfire Research Centre of Excellence_
 
