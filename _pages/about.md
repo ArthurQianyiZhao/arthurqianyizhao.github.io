@@ -11,16 +11,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Arthur is pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [School of Engineering](https://eng.anu.edu.au/), [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in advance in Jun 2025. He is an incoming PhD student at Department of Electrical and Electronic Engineering, University of Melbourne.
+Arthur is pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in advance in Jun 2025. He is an incoming PhD student at Department of Electrical and Electronic Engineering, University of Melbourne.
 
 His research interests are optical communication, photonic devices and related decision intelligence. He has particular interest in photonic solutions to large-scale multi-GPU communication and AI/data infrastructure.
 
 Feel free to contact via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@anu.edu.au).
 
 # News
-I have received the PhD offer with full scholarship from University of Melbourne, commencing in S2 2025.
+Apr 25: I have received the Master offer from Cornell University, Rice University, and University of Michigan for Fall 2025!
 
-I will continue the tutor position at School of Engineering for S1 2025.
+Feb 25: I have received the PhD offer with full scholarship from University of Melbourne, commencing in S2 2025.
 
 # Research Experiences
 
@@ -58,9 +58,9 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   **WAM**: 82 (HD with First Class Honours)
 
-  **GPA**: US Equivalent (WES/Scholaro): 3.96/4
+  **GPA**: US Equivalent (WES/Scholaro): 3.97/4
 
-  **Highlight**: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Digital Communication (94), Introduction to Electronics (95), Introduction to Mechanics (95) , Wireless Communication (86), Computer Systems & Organisation (87)
+  **Highlight**: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Digital Communication (94), Wireless Communication (86), Computer Systems & Organisation (87), Introduction to Electronics/ Mechanics (Both 95).
 
 
 # Teaching & Services
@@ -68,9 +68,9 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   Academic tutor for 3 consecutive years:
 
-    [ENGN2218: Electronic Systems and Design](https://programsandcourses.anu.edu.au/2024/course/engn2218) (**2024S1**, **2025S1**)
+    [ENGN2218: Electronic Systems and Design](https://programsandcourses.anu.edu.au/2024/course/engn2218) (**2024**, **2025**)
 
-    [ENGN1217: Introduction to Mechanics](https://programsandcourses.anu.edu.au/2023/course/engn1217) (**2023S2**)
+    [ENGN1217: Introduction to Mechanics](https://programsandcourses.anu.edu.au/2023/course/engn1217) (**2023**)
 
 - Get fully trained for TA position through ANU _EXPLORING LEARNING AND TEACHING_ program. [[Certificate]](https://www.dropbox.com/scl/fi/ackxbpnhggc1vzbo9tb1q/ELT-Certificate-ZHAO-Arthur.pdf?rlkey=d8gd61wcoko5bvt4mob56w7e7&st=mbhn5qey&dl=0) 
 - Course Representative for 12 courses across all semesters.
