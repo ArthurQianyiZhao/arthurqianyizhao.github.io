@@ -11,16 +11,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Arthur is pursuing [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2022/program/aenrd) in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ) from [The Australian National University (ANU)](https://www.anu.edu.au/) and expect to graduate in advance in Jun 2025. He is an incoming PhD student at Department of Electrical and Electronic Engineering, University of Melbourne.
+Arthur is currently a PhD student in Electrical Engineering at University of Melbourne. He holds a [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2022/program/aenrd) with First Class Honours from the [Australian National University (ANU)](https://www.anu.edu.au/). His research interests are optical communication, optoelectronic/ photonic devices and related decision intelligence. He has particular interest in photonic solutions to AI infrastructure. He is also an active secondary market investor with enthusiasm for the financial markets.
 
-His research interests are optical communication, photonic devices and related decision intelligence. He has particular interest in photonic solutions to large-scale multi-GPU communication and AI/data infrastructure.
-
-Feel free to contact via email: [arthur.zhao@anu.edu.au](mailto:arthur.zhao@anu.edu.au).
+Feel free to contact via email: [arthur.zhao@student.unimelb.edu.au](mailto:arthur.zhao@student.unimelb.edu.au).
 
 # News
-Apr 25: I have received the Master offer from Cornell University, Rice University, and University of Michigan for Fall 2025!
+Jul 25: I have officially enrolled and started my PhD journey at University of Melbourne.
 
-Feb 25: I have received the PhD offer with full scholarship from University of Melbourne, commencing in S2 2025.
+Apr 25: I have received the Master offers from Cornell University (ECE), Rice University (MSNE with fellowship), and University of Michigan (ECE) for Fall 2025!
+
+Feb 25: I have received the PhD offer with univeristy's scholarship from University of Melbourne, commencing in S2 2025.
 
 # Research Experiences
 
@@ -56,11 +56,11 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   **Minor**: [Computer Science](https://programsandcourses.anu.edu.au/2022/minor/csci-min)
 
-  **WAM**: 82 (HD with First Class Honours)
+  **WAM**: 83 (H1, First Class Honours)
 
   **GPA**: US Equivalent (WES/Scholaro): 3.97/4
 
-  **Highlight**: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Digital Communication (94), Wireless Communication (86), Computer Systems & Organisation (87), Introduction to Electronics/ Mechanics (Both 95).
+  **Highlight**: Academic Highlights: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Digital Communication (94), Digital Systems& Microprocesscors (88), Computer Systems & Organisation (87), Wireless Communication (86), Introduction to Electronics/ Mechanics (Both 95).
 
 
 # Teaching & Services
@@ -78,13 +78,14 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 - Career Director of Australia-China Youth Association (ACYA), ANU for 2025
 
 # Experiences
+
+- *02/2024 - 07/2025*, Undergraduate Research Student, NEMS Lab, Australian National Univerisity, Canberra, Australia.
+
+  Supervisor: Prof. [Yuerui Lu](https://eng.anu.edu.au/people/yuerui-lu/)
+
 - *11/2024 - 02/2025*, Summer Research Student, Faculty of Engineering, Monash University, Melbourne, Australia.
 
   Supervisor: Dr. [Yuxiang Wu](https://scholar.google.com/citations?user=1JBjOO8AAAAJ&hl=en) and Prof. [Michael Preuss](https://research.monash.edu/en/persons/michael-preuss)
-
-- *02/2024 - Present*, Undergraduate Research Student, NEMS Lab, Australian National Univerisity, Canberra, Australia.
-
-  Supervisor: Prof. [Yuerui Lu](https://eng.anu.edu.au/people/yuerui-lu/)
 
 - *06/2024 - 07/2024*, Study Australia Industry Experience Program, Australian Government, Remote. [[Certificate]](https://www.dropbox.com/scl/fi/di7x8nk4fe4nnrtnw7nkr/Study-Australia-Industry-Experience-Program.pdf?rlkey=yimvd2thfq7qshdcij27rb36g&st=9yvzi4u3&dl=0)
 
