@@ -52,15 +52,15 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 # Educations
 - [**Bachelor of Engineering (Research and Development) (Honours)**](https://programsandcourses.anu.edu.au/2022/program/aenrd), Australian National Univerisity, Canberra, Australia, *02/2022 - 06/2025*,
 
-  **Major**: [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2022/major/ELCO-MAJ)
+  **Major**: [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2023/major/ELCO-MAJ)
 
-  **Minor**: [Computer Science](https://programsandcourses.anu.edu.au/2022/minor/csci-min)
+  **Minor**: [Computer Science](https://programsandcourses.anu.edu.au/2023/minor/csci-min)
 
   **WAM**: 83 (H1, First Class Honours)
 
   **GPA**: US Equivalent (WES/Scholaro): 3.97/4
 
-  **Highlight**: Academic Highlights: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Digital Communication (94), Digital Systems& Microprocesscors (88), Computer Systems & Organisation (87), Wireless Communication (86), Introduction to Electronics/ Mechanics (Both 95).
+  **Highlight**: Academic Highlights: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Introduction to Electronics/ Mechanics (Both 95), Digital Communication/ Mathematics 2 (94), Mechanical System (91), Digital Systems& Microprocesscors (88), Computer Systems & Organisation (87), Wireless Communication (86),
 
 
 # Teaching & Services
