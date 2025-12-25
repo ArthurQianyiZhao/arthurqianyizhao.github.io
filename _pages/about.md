@@ -11,24 +11,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Arthur is currently a PhD student in Electrical Engineering at University of Melbourne. He holds a [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2022/program/aenrd) with First Class Honours from the [Australian National University (ANU)](https://www.anu.edu.au/). His research interests are AI-native optical communication and optoelectronic/ photonic devices for AI and 5G infrastructure. He is also an active secondary market investor with enthusiasm for the financial markets.
+Arthur is currently a PhD student in Electrical Engineering at University of Melbourne, advised by Prof.[Christina Lim](https://findanexpert.unimelb.edu.au/profile/969-christina-lim), Prof.[Ampalavanapillai Nirmalathas](https://findanexpert.unimelb.edu.au/profile/15285-ampalavanapillai-nirmalathas) and A/Prof.[Jame Bullock](https://findanexpert.unimelb.edu.au/profile/833561-james-bullock). He holds a [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2022/program/aenrd) with First Class Honours from the [Australian National University (ANU)](https://www.anu.edu.au/). His research interests are AI-native optical communication and optoelectronic/ photonic devices for AI and 5G infrastructure. He is also an active secondary market investor with enthusiasm for the financial markets.
 
-Feel free to contact via email: [arthur.zhao@student.unimelb.edu.au](mailto:arthur.zhao@student.unimelb.edu.au).
+Feel free to contact via email: [arthurzhao@student.unimelb.edu.au](mailto:arthurzhao@student.unimelb.edu.au).
 
 # News
-Dec 24: One paper accepted for OFC 2026 at Los Angeles.
+Dec 25: One paper accepted for OFC 2026 at Los Angeles.
 
 Jul 25: I have officially enrolled and started my PhD journey at University of Melbourne.
 
-Apr 25: I have received the Master offers from Cornell University (ECE), Rice University (MSNE with fellowship), and University of Michigan (ECE) for Fall 2025!
+Apr 25: I have received the Master program offers from Cornell University (ECE), Rice University (MSNE with fellowship), and University of Michigan (ECE) for Fall 2025!
 
-Feb 25: I have received the PhD offer with univeristy's scholarship from University of Melbourne, commencing in S2 2025.
+Feb 25: I have received the PhD offer with full scholarship from University of Melbourne, commencing in S2 2025.
 
 # Research Experiences
 
 _Nano-Electro-Mechanical System (NEMS) Lab, ANU_
 
-[1] Design, simulation and fabrication of qBIC metasurface in telecom-band (Ongoing)
+[1] Design, simulation and fabrication of qBIC metasurface in telecom-band
 
 [2] Fabrication of 2D heterostructures with precise twist angle alignment
 
@@ -83,11 +83,11 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 - *02/2024 - 07/2025*, Undergraduate Research Student, NEMS Lab, Australian National Univerisity, Canberra, Australia.
 
-  Supervisor: Prof. [Yuerui Lu](https://eng.anu.edu.au/people/yuerui-lu/)
+  Advisor: Prof. [Yuerui Lu](https://eng.anu.edu.au/people/yuerui-lu/)
 
 - *11/2024 - 02/2025*, Summer Research Student, Faculty of Engineering, Monash University, Melbourne, Australia.
 
-  Supervisor: Dr. [Yuxiang Wu](https://scholar.google.com/citations?user=1JBjOO8AAAAJ&hl=en) and Prof. [Michael Preuss](https://research.monash.edu/en/persons/michael-preuss)
+  Advisor: Dr. [Yuxiang Wu](https://scholar.google.com/citations?user=1JBjOO8AAAAJ&hl=en) and Prof. [Michael Preuss](https://research.monash.edu/en/persons/michael-preuss)
 
 - *06/2024 - 07/2024*, Study Australia Industry Experience Program, Australian Government, Remote. [[Certificate]](https://www.dropbox.com/scl/fi/di7x8nk4fe4nnrtnw7nkr/Study-Australia-Industry-Experience-Program.pdf?rlkey=yimvd2thfq7qshdcij27rb36g&st=9yvzi4u3&dl=0)
 
@@ -97,7 +97,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 - *02/2023 - 11/2023*, Undergraduate Research Student, ANU-Optus Bushfire Research Centre of Excellence, Australian National Univerisity, Canberra, Australia.
 
-  Supervisor: Prof. [Xiangyun Zhou](https://sites.google.com/view/xiangyun-zhou/) and Prof. [Salman Durrani](https://eng.anu.edu.au/people/salman-durrani/)
+  Advisor: A/Prof. [Xiangyun Zhou](https://sites.google.com/view/xiangyun-zhou/) and Prof. [Salman Durrani](https://eng.anu.edu.au/people/salman-durrani/)
 
 - *05/2023 - 07/2023*, Summer Workshop, School of Computing, National University of Singapore, Singapore [[Certificate]](https://www.dropbox.com/scl/fi/o7po6h4s5svmsimdea9a3/Certificate-of-Completion.jpg?rlkey=k2iwh9r0wtzhvu3f0wmse0w0k&st=ndk1yacg&dl=0)
 
