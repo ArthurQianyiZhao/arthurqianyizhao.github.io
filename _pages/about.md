@@ -11,11 +11,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Arthur is currently a PhD student in Electrical Engineering at University of Melbourne. He holds a [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2022/program/aenrd) with First Class Honours from the [Australian National University (ANU)](https://www.anu.edu.au/). His research interests are optical communication, optoelectronic/ photonic devices and related decision intelligence. He has particular interest in photonic solutions to AI infrastructure. He is also an active secondary market investor with enthusiasm for the financial markets.
+Arthur is currently a PhD student in Electrical Engineering at University of Melbourne. He holds a [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2022/program/aenrd) with First Class Honours from the [Australian National University (ANU)](https://www.anu.edu.au/). His research interests are AI-native optical communication and optoelectronic/ photonic devices for AI and 5G infrastructure. He has particular interest in photonic solutions to AI infrastructure. He is also an active secondary market investor with enthusiasm for the financial markets.
 
 Feel free to contact via email: [arthur.zhao@student.unimelb.edu.au](mailto:arthur.zhao@student.unimelb.edu.au).
 
 # News
+Dec 24: One paper accepted for OFC 2026 at Los Angeles.
+
 Jul 25: I have officially enrolled and started my PhD journey at University of Melbourne.
 
 Apr 25: I have received the Master offers from Cornell University (ECE), Rice University (MSNE with fellowship), and University of Michigan (ECE) for Fall 2025!
@@ -45,7 +47,7 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
 
 # Honors & Awards
-- Melbourne Research Scholarship, University of Melbourne, starting from 07/2025
+- Australian Government Research Training Program Scholarship (RTP), University of Melbourne, starting from 07/2025
 - Monash Summer Vacation Research Scholarship, Monash University, 11/2024
 - HEX Singapore Summer Program Scholarship, ANU School of Computing, 09/2023
 
