@@ -13,10 +13,10 @@ redirect_from:
 
 Arthur is currently a PhD student in Electrical Engineering at University of Melbourne, advised by Prof. [Christina Lim](https://findanexpert.unimelb.edu.au/profile/969-christina-lim), Prof. [Ampalavanapillai Nirmalathas](https://findanexpert.unimelb.edu.au/profile/15285-ampalavanapillai-nirmalathas) and A/Prof. [Jame Bullock](https://findanexpert.unimelb.edu.au/profile/833561-james-bullock). He holds a [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2022/program/aenrd) with First Class Honours from the [Australian National University (ANU)](https://www.anu.edu.au/). His research interests are AI-native optical communication and optoelectronic/ photonic devices for AI and 5G infrastructure. He is also an active secondary market investor with enthusiasm for the financial markets.
 
-Feel free to contact via email: [arthurzhao@student.unimelb.edu.au](mailto:arthurzhao@student.unimelb.edu.au).
+Feel free to contact via email: [arthur.zhao@unimelb.edu.au](mailto:arthur.zhao@unimelb.edu.au).
 
 # News
-Dec 25: One paper accepted for OFC 2026 at Los Angeles.
+Dec 25: One paper was accepted for oral presentation at OFC 2026 in Los Angeles
 
 Jul 25: I have officially enrolled and started my PhD journey at University of Melbourne.
 
@@ -62,10 +62,15 @@ _ANU-Optus Bushfire Research Centre of Excellence_
 
   **GPA**: US Equivalent (WES/Scholaro): 3.97/4
 
-  **Highlight**: Academic Highlights: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Introduction to Electronics/ Mechanics (Both 95), Digital Communication/ Mathematics 2 (94), Mechanical System (91), Digital Systems& Microprocesscors (88), Computer Systems & Organisation (87), Wireless Communication (86),
+  **Highlight**: Academic Highlights: Electronic Systems and Design (98), Signals and Systems (96), Information Theory (96), Introduction to Electronics/ Mechanics (Both 95), Digital Communication/ Mathematics 2 (94), Mechanical System (91), Digital Systems& Microprocesscors (88), Computer Systems & Organisation (87), Wireless Communication (86)
 
 
 # Teaching & Services
+- *02/2026 - now*, Academic Tutor, Department of Electrical and Electronic Engineering, University of Melbourne, Melbourne, Australia.
+  Academic tutor/ demonstrator for:
+    [ELEN30014: Analog and Digital Electronics Concepts](https://handbook.unimelb.edu.au/2026/subjects/elen30014) (**2026**)
+
+
 - *07/2023 - 06/2025*, Academic Tutor, School of Engineering, Australian National Univerisity, Canberra, Australia.
 
   Academic tutor for 3 consecutive years:
