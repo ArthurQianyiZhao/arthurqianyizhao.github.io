@@ -16,7 +16,11 @@ Arthur is currently a PhD student in Electrical Engineering at University of Mel
 Feel free to contact via email: [arthur.zhao@unimelb.edu.au](mailto:arthur.zhao@unimelb.edu.au).
 
 # News
-Dec 25: One paper was accepted for oral presentation at OFC 2026 in Los Angeles
+Sep 26: One papar was accepted by Journal of Optical Communications and Networking.
+
+Mar 26: I went to Los Angeles for the oral presentation at OFC 2026!
+
+Dec 25: One paper was accepted for oral presentation at OFC 2026.
 
 Jul 25: I have officially enrolled and started my PhD journey at University of Melbourne.
 
