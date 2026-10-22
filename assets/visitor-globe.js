@@ -198,8 +198,43 @@
 
   const map = document.getElementById('visitor-map');
   const mapNote = document.getElementById('visitor-map-note');
-  map.addEventListener('error', () => {
+  const retryMap = document.getElementById('visitor-map-retry');
+  const mapCaption = mapNote.textContent;
+  const mapSource = map.src;
+  let mapAttempts = 0;
+  let mapTimer;
+  function loadMap() {
+    clearTimeout(mapTimer);
+    retryMap.hidden = true;
+    mapNote.textContent = 'Loading visitor map…';
+    map.src = mapSource + '?retry=' + Date.now();
+  }
+  function mapLoaded() {
+    clearTimeout(mapTimer);
+    map.hidden = false;
+    retryMap.hidden = true;
+    mapNote.textContent = mapCaption;
+    mapAttempts = 0;
+  }
+  function mapFailed() {
     map.hidden = true;
-    mapNote.textContent = 'The visitor map is temporarily unavailable. You can still open the recorded statistics above.';
-  });
+    if (mapAttempts < 2) {
+      mapAttempts += 1;
+      mapNote.textContent = 'Reconnecting to the visitor map…';
+      clearTimeout(mapTimer);
+      mapTimer = setTimeout(loadMap, mapAttempts * 2000);
+    } else {
+      retryMap.hidden = false;
+      mapNote.textContent = 'The external visitor map could not load. Your network or a content blocker may be preventing access to Flag Counter. Retry below or use View stats. The globe works independently.';
+    }
+  }
+  map.addEventListener('load', mapLoaded);
+  map.addEventListener('error', mapFailed);
+  retryMap.addEventListener('click', () => { mapAttempts = 0; loadMap(); });
+  window.addEventListener('online', () => { if (map.hidden) { mapAttempts = 0; loadMap(); } });
+  // Handle cached results that completed before these listeners were registered.
+  if (map.complete) {
+    if (map.naturalWidth > 0) mapLoaded();
+    else mapFailed();
+  }
 })();
