@@ -24,7 +24,7 @@ redirect_from:
   <link rel="stylesheet" href="/assets/portfolio.css">
   <script src="/assets/portfolio.js" defer></script>
   <link rel="stylesheet" href="/assets/visitor-globe.css">
-  <script src="/assets/visitor-globe.js" defer></script>
+  <script src="/assets/visitor-globe.js?v=2" defer></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-J234J3GNDP"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-J234J3GNDP');</script>
 </head>
@@ -85,15 +85,20 @@ redirect_from:
     <div class="wrap visitor-layout">
       <div class="globe-panel">
         <div class="globe-overline"><span>VISITOR ATLAS</span><span>EARTH / 01</span></div>
-        <canvas id="visitor-globe" width="600" height="600" tabindex="0" aria-label="Rotating Earth. Drag or use the left and right arrow keys to rotate. The green marker shows Melbourne, Australia.">An interactive Earth showing Melbourne, Australia.</canvas>
-        <div class="globe-toolbar"><span>DRAG TO EXPLORE</span><div><button id="globe-motion" type="button" aria-pressed="false">Pause rotation</button></div></div>
-        <div class="globe-legend"><span><i class="legend-home"></i>Melbourne · my base</span></div>
+        <canvas id="visitor-globe" width="600" height="600" tabindex="0" aria-label="Rotating Earth. Drag or use the left and right arrow keys to rotate. The green marker is Melbourne; the gold marker is your approximate location when available.">An interactive Earth showing Melbourne and your approximate location. Your location is also shown beside the globe.</canvas>
+        <div class="globe-toolbar"><span>DRAG TO EXPLORE</span><div><button id="globe-focus" type="button" disabled>Find me ↗</button><button id="globe-motion" type="button" aria-pressed="false">Pause rotation</button></div></div>
+        <div class="globe-legend"><span><i class="legend-home"></i>Melbourne · my base</span><span id="visitor-legend" hidden><i class="legend-visitor"></i>Your visit · approximate</span></div>
       </div>
       <div class="visitor-copy">
         <p class="eyebrow">AROUND THE WORLD</p>
         <h2>A small world.<br><em>Thanks for stopping by.</em></h2>
-        <div class="visitor-location"><span class="visitor-kicker">BASED IN</span><p id="visitor-place">Melbourne, Australia</p><p class="visitor-location-note">Research travels further when we share it. Wherever you’re reading from, welcome.</p></div>
-        <p class="globe-attribution">Made with <a href="https://www.naturalearthdata.com/">Natural Earth</a> geographic data.</p>
+        <div class="visitor-location"><span class="visitor-kicker">YOU’RE VISITING FROM</span><p id="visitor-place" role="status" aria-live="polite">Finding your approximate location…</p><p class="visitor-location-note">Based on your network location, not GPS. VPNs may show a different place.</p></div>
+        <div class="visitor-history">
+          <div class="visitor-map-heading"><h3>Visitors around the world</h3><a href="https://info.flagcounter.com/Uh3x" target="_blank" rel="noopener noreferrer">View stats ↗</a></div>
+          <a class="visitor-map-link" href="https://info.flagcounter.com/Uh3x" target="_blank" rel="noopener noreferrer" aria-label="Open cumulative visitor-country statistics on Flag Counter"><img id="visitor-map" src="https://s05.flagcounter.com/map/Uh3x/size_m/txt_172B29/border_F6F5F1/pageviews_0/viewers_0/flags_0/" width="360" height="202" alt="World map of recorded visitor countries, provided by Flag Counter" loading="lazy" referrerpolicy="no-referrer"></a>
+          <p id="visitor-map-note">Recorded countries since October 2026, including setup visits. The globe shows your current visit; the map collects visits over time.</p>
+        </div>
+        <details class="visitor-privacy"><summary>About this map <span>+</span></summary><p>The globe uses an approximate IP-based location from <a href="https://www.geojs.io/privacy/" target="_blank" rel="noopener noreferrer">GeoJS</a>. The visitor map is provided by <a href="https://flagcounter.com/privacy.html" target="_blank" rel="noopener noreferrer">Flag Counter</a>. These services receive your IP address when loaded. No precise device location is requested, and this site does not publish IP addresses. Geographic data: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener noreferrer">Natural Earth</a>.</p></details>
       </div>
     </div>
   </section>

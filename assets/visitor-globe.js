@@ -3,15 +3,17 @@
   const canvas = document.getElementById('visitor-globe');
   if (!canvas) return;
   const ctx = canvas.getContext('2d');
+  const place = document.getElementById('visitor-place');
   const motionButton = document.getElementById('globe-motion');
+  const focusButton = document.getElementById('globe-focus');
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   const rad = Math.PI / 180;
   const home = { lat: -37.81, lon: 144.96 };
-  let dots = [], coasts = [], grid = [];
+  let visitor = null, dots = [], coasts = [], grid = [], arc = [];
   let yaw = 125 * rad, tilt = -18 * rad;
   let paused = reducedMotion.matches, visible = false, dragging = false;
   let width = 600, radius = 222, center = 300, animation = 0, previous = 0;
-  let pointerX = 0, pointerY = 0;
+  let pointerX = 0, pointerY = 0, geoStarted = false;
 
   const point = (lon, lat) => {
     const a = lon * rad, b = lat * rad;
@@ -24,6 +26,22 @@
     return [center + x * radius, center - y * radius, p[1] * Math.sin(tilt) + z * Math.cos(tilt)];
   };
 
+  // The connecting arc links only this browser's approximate location to Melbourne.
+  // There are no simulated visitor markers, totals, or stored IP addresses.
+  function makeArc() {
+    arc = [];
+    if (!visitor) return;
+    const a = point(home.lon, home.lat), b = point(visitor.lon, visitor.lat);
+    const dot = Math.max(-1, Math.min(1, a.reduce((n, v, i) => n + v * b[i], 0)));
+    const angle = Math.acos(dot), sine = Math.sin(angle);
+    if (angle < 0.02 || Math.abs(sine) < 0.001) return;
+    for (let i = 0; i <= 100; i++) {
+      const t = i / 100;
+      const u = Math.sin((1 - t) * angle) / sine, v = Math.sin(t * angle) / sine;
+      const lift = 1 + Math.sin(Math.PI * t) * 0.13;
+      arc.push(a.map((n, k) => (n * u + b[k] * v) * lift));
+    }
+  }
   function strokeLine(points, color, thickness) {
     ctx.beginPath();
     let connected = false;
@@ -71,7 +89,9 @@
       ctx.fillStyle = `rgba(155,207,168,${.22 + z * .63})`;
       ctx.beginPath(); ctx.arc(x, y, Math.max(.6, radius / 175) * (.55 + .45 * z), 0, Math.PI * 2); ctx.fill();
     }
+    if (arc.length) strokeLine(arc, '#dfbd7d', 1.1);
     marker(home, '#93e8bc', t, 'MELBOURNE');
+    if (visitor) marker(visitor, '#efc779', t + 450, 'YOU');
   }
   function tick(t) {
     animation = 0;
@@ -134,15 +154,52 @@
       render(); syncMotion();
     });
     motionButton.addEventListener('click', () => { paused = !paused; syncMotion(); });
+    focusButton.addEventListener('click', () => {
+      if (!visitor) return;
+      yaw = visitor.lon * rad; tilt = visitor.lat * rad; paused = true; render(); syncMotion();
+    });
     reducedMotion.addEventListener('change', () => { paused = reducedMotion.matches; syncMotion(); });
     document.addEventListener('visibilitychange', start);
     syncMotion();
   } else {
-    canvas.hidden = true; motionButton.hidden = true;
+    canvas.hidden = true; motionButton.hidden = true; focusButton.hidden = true;
   }
 
+  async function locate() {
+    if (geoStarted) return;
+    geoStarted = true;
+    if (navigator.globalPrivacyControl || navigator.doNotTrack === '1') {
+      place.textContent = 'Location lookup disabled by your privacy preference.';
+      return;
+    }
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 7000);
+    try {
+      const response = await fetch('https://get.geojs.io/v1/ip/geo.json', { signal: controller.signal, credentials: 'omit', referrerPolicy: 'no-referrer' });
+      if (!response.ok) throw new Error('Location unavailable');
+      const data = await response.json();
+      const lat = Number(data.latitude), lon = Number(data.longitude);
+      if (data.latitude == null || data.longitude == null || !Number.isFinite(lat) || !Number.isFinite(lon) || Math.abs(lat) > 90 || Math.abs(lon) > 180 || !data.country) throw new Error('No location');
+      // Keep only rounded coordinates and a display label in page memory.
+      visitor = { lat: Math.round(lat), lon: Math.round(lon) };
+      place.textContent = [data.city, data.country].filter(Boolean).join(', ');
+      document.getElementById('visitor-legend').hidden = false;
+      focusButton.disabled = false;
+      yaw = visitor.lon * rad; tilt = Math.max(-.7, Math.min(.7, visitor.lat * rad));
+      makeArc(); render(); start();
+    } catch (_) {
+      place.textContent = 'Location unavailable — welcome, wherever you are.';
+    } finally { clearTimeout(timeout); }
+  }
   new IntersectionObserver(entries => {
     visible = entries[0].isIntersecting;
-    if (visible) start();
+    if (visible) { locate(); start(); }
   }, { rootMargin: '160px' }).observe(canvas.parentElement);
+
+  const map = document.getElementById('visitor-map');
+  const mapNote = document.getElementById('visitor-map-note');
+  map.addEventListener('error', () => {
+    map.hidden = true;
+    mapNote.textContent = 'The visitor map is temporarily unavailable. You can still open the recorded statistics above.';
+  });
 })();
